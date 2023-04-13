@@ -51,7 +51,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> &nbsp;
 </div>
  
-
+### :man_technologist: Main Projects :
+<div>
+   <div>
+     <h2>Carworkshop</h4>
+     <p>Carworkshop is an app consisting of a landing page and dashboard for the client and for the admin/employee.</p>
+     <a href='https://github.com/kamilbochno/carworkshop'>REPO</a> <br>
+     <img src='https://raw.githubusercontent.com/kamilbochno/carworkshop/main/preview_images/Home/Home.png' title='Carworkshop' alt='Carworkshop'/>&nbsp;
+  </div>
+  
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kamilbochno&theme=dark&background=000000)](https://git.io/streak-stats)
 
