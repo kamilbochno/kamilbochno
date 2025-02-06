@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">A passionate in frontend and backend</h3>
 
-- 🌱 I’m currently learning **React.js and Node.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/kamilbochno](https://github.com/kamilbochno)
 
 - 📫 How to reach me **bochno.kamil@gmail.com**
